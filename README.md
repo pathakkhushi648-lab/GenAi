@@ -567,16 +567,6 @@ It also provides a foundation for developing more advanced AI-powered educationa
 
 ---
 
-## 15. Final Conclusion
-
-Smart Study Buddy is a useful demonstration of how Generative AI can support modern education.
-
-By combining an LLM with structured prompt engineering and an interactive interface, the application generates different types of learning resources from a single user input.
-
-The project focuses on making learning more accessible, organized, and flexible.
-
-Although the current implementation has limitations, its architecture provides opportunities for future improvements such as persistent study records, interactive assessments, personalized recommendations, and multilingual educational support.
-
 **Smart Study Buddy aims to make learning smarter, simpler, and more accessible through Generative AI.**
 
 ## 8. Advantages of the Project
@@ -620,22 +610,6 @@ Streamlit provides a simple interface that does not require advanced technical k
 Generative AI automatically creates structured educational content, reducing manual preparation.
 
 ---
-
-## 9. Disadvantages of the Project
-
-Although Smart Study Buddy provides many benefits, it also has some limitations.
-
-### 9.1 Internet Dependency
-
-The application requires an active internet connection to communicate with Google Gemini.
-
-### 9.2 API Key Requirement
-
-Users need a valid Google Gemini API key to access the AI model.
-
-### 9.3 Possible Incorrect Information
-
-AI-generated responses may sometimes contain incorrect, incomplete, or outdated information.
 
 ### 9.4 API Usage Limitations
 
@@ -799,6 +773,14 @@ The application combines explanations, examples, MCQs, interview questions, and 
 Although the current system has limitations such as internet dependency, API requirements, and the possibility of incorrect AI-generated information, it provides a useful foundation for developing more advanced AI-powered educational applications.
 
 In the future, features such as PDF downloads, database integration, interactive quizzes, multilingual support, and personalized learning can make Smart Study Buddy a more complete educational assistant.
+
+Smart Study Buddy is a useful demonstration of how Generative AI can support modern education.
+
+By combining an LLM with structured prompt engineering and an interactive interface, the application generates different types of learning resources from a single user input.
+
+The project focuses on making learning more accessible, organized, and flexible.
+
+Although the current implementation has limitations, its architecture provides opportunities for future improvements such as persistent study records, interactive assessments, personalized recommendations, and multilingual educational support.
 
 ---
 
